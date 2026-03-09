@@ -10,7 +10,7 @@ This program emulates eraser mode at the OS level while the side button is held.
 
 ## Demo
 
-![video](assets/demo.webm)
+<video src="https://github.com/user-attachments/assets/83a3df97-f838-48da-a7e9-930c028ca485" autoplay loop muted playsinline width="100%"></video>
 
 ## How it works
 
