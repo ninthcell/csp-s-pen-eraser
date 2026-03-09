@@ -1,5 +1,7 @@
 # CSP S Pen Eraser
 
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ninthcell)
+
 Hold the Galaxy Book S Pen side button to use it as an **eraser** in Clip Studio Paint — simulating a Wacom-style tail switch.
 
 ## Problem
