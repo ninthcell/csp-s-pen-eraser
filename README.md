@@ -10,7 +10,7 @@ This program emulates eraser mode at the OS level while the side button is held.
 
 ## Demo
 
-<!-- TODO: demo video -->
+![video](assets/demo.webm)
 
 ## How it works
 
