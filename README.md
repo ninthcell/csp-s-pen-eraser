@@ -22,6 +22,8 @@ This program emulates eraser mode at the OS level while the side button is held.
 
 Download `csp-s-pen-eraser.zip` from the [Releases](../../releases) page, extract both files into the same folder, and run `pen_right_click.exe`.
 
+CSP must be using Windows Ink (TabletPC), not WinTab (set in Preference --> Tablet)
+
 Right-click the tray icon → **Enable auto-start** to launch automatically with Windows.
 
 ### Build from source
