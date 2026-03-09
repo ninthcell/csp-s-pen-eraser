@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.obj
+*.res
+*.exp
+*.lib
+*.o
+*.ahk
+.vs/
+.claude/
+build.bat
+build_check.bat
+hid_check.c
